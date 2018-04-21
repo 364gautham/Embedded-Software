@@ -10,7 +10,7 @@
 #define __circbuf_H__
 
 typedef struct circ {
-	char * buffptr;
+	uint8_t * buffptr;
 	uint8_t length;
 	uint8_t *ptrhead;
 	uint8_t *ptrtail;
