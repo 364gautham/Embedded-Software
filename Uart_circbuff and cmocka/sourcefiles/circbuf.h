@@ -12,8 +12,8 @@
 typedef struct circ {
 	char * buffptr;
 	uint8_t length;
-	struct node *ptrhead;
-	struct node *ptrtail;
+	uint8_t *ptrhead;
+	uint8_t *ptrtail;
 	uint8_t count;
 }cb_t;
 
