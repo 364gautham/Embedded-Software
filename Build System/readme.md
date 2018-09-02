@@ -1,6 +1,6 @@
 
 Makefile should be used to build the system .
 
-We have created makefile with required architecture specific flags
+Makefile with required architecture specific flags for different boards[BBG,KL25Z and x86(host)]
 
 
