@@ -8,14 +8,7 @@
  * misuse of this material. 
  *
  *****************************************************************************/
-/**
- * @file project1.h 
- * @brief This file is to be used to project 1.
- *
- * @author Srikant Gaikwad,Santhosh Thumanapalli
- * @date April 2, 2017
- *
- */
+
 #ifndef __PROJECT1_H__
 #define __PROJECT1_H__
 
