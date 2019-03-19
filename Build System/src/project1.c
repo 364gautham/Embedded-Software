@@ -8,14 +8,7 @@
  * misuse of this material.
  *
  *****************************************************************************/
-/**
- * @file project1_test.c
- * @brief This file is to be used to project 1.
- *
- * @author Srikant Gaikwad, Santhosh Thumannapalli
- * @date October 2, 2017
- *
- */
+
 
 #include <stdio.h>
 #include <stdint.h>
